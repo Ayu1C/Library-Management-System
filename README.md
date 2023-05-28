@@ -19,3 +19,8 @@ system.
 edit, delete, and search records quickly and easily, making the whole 
 process less cumbersome.
 
+![image](https://github.com/Ayu1C/Library-Management-System/assets/102305307/d0101f57-7cf8-4339-ad39-2e4e4604e0d5)
+
+![image](https://github.com/Ayu1C/Library-Management-System/assets/102305307/57b1f723-df4e-4aff-a221-fbbe4852f2d4)
+
+![image](https://github.com/Ayu1C/Library-Management-System/assets/102305307/7479fa11-379c-490a-976d-f71bf3ea1a9c)
